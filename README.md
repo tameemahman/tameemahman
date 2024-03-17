@@ -1,6 +1,6 @@
 ![logo](https://github.com/imranhss/imranhss/blob/main/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center">Hi 👋, I'm Tameem Rahman</h1>
+<h1 align="center"> 👋, This is  Tameem Rahman</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tameem&label=Profile%20views&color=0e75b6&style=flat" alt="tameem" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tameem.handb@gmail.com**
 
-- 📄 Know about my experiences linkedin.com/in/tameem-rahman-736476118
+- 📄 Know about my experiences **linkedin.com/in/tameem-rahman-736476118**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
