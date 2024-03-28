@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tameem.handb@gmail.com**
 
-- 📄 Know about my experiences **linkedin.com/in/tameem-rahman-736476118**
+- 📄 Know about my experiences  **linkedin.com/in/tameem-rahman-736476118**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
